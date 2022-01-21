@@ -1,6 +1,11 @@
 # Beetle-Juice-Bot
 A Discord bot featuring Beetle Juice from the Howeard Stern Show!
 
+
+# Invite link:
+
+https://discord.com/api/oauth2/authorize?client_id=912397138846187580&permissions=412317129792&scope=bot
+
 # Commands
 
 !Beet to be greeted by Beetlejuice
