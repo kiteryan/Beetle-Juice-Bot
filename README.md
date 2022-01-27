@@ -1,5 +1,5 @@
 # Beetle-Juice-Bot
-A Discord bot featuring Beetle Juice from the Howeard Stern Show!
+A Discord bot featuring Beetle Juice from the Howard Stern Show!
 
 
 # Invite link
